@@ -1,0 +1,14 @@
+streamlit>=1.40
+pandas
+pdfplumber
+openpyxl
+python-dotenv
+Pillow
+pytesseract
+PyMuPDF
+python-docx
+pillow-heif
+rapidocr
+onnxruntime
+numpy
+streamlit-pdf-viewer
